@@ -1,0 +1,5 @@
+../extraParams.hxml
+-cp ..
+-js webgl.js
+-main Main
+© 2022 GitHub, Inc.
